@@ -1,2 +1,2 @@
 # maxkross.github.io
-My website
+The repository for my personal blog
